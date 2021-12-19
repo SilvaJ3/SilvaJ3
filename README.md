@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Junior Silva Braga
+
+I started my journey as a full stack web developper in 2021 and achieved my training at Molengeek.
+Right now, I'm still learning in order to improve my skills.
+
+- 🌱 I’m currently learning Node.js and Vue Js.
+- 📫 How to reach me: silvabraga.junior@gmail.com
+
 <!--
 **SilvaJ3/SilvaJ3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
