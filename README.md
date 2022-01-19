@@ -3,9 +3,9 @@
 My name is Junior Silva Braga
 
 I started my journey as a full stack web developper in 2021 and achieved my training at Molengeek.
-Right now, I'm still learning in order to improve my skills.
+Right now, I'm doing my internship at GreenBeTech/PxlStudio.
 
-- 🌱 I’m currently learning Node.js and Vue Js.
+- 🌱 I’m currently learning GraphQL, TypeScript and Next.js.
 - 📫 How to reach me: silvabraga.junior@gmail.com
 
 <details>
