@@ -8,6 +8,8 @@ Right now, I'm doing my internship at GreenBeTech/PxlStudio.
 - 🌱 I’m currently learning GraphQL, TypeScript and Next.js.
 - 📫 How to reach me: silvabraga.junior@gmail.com
 
+[![wakatime](https://wakatime.com/badge/user/cbbd479b-b3dd-4f21-a006-4a0a3e045282.svg)](https://wakatime.com/@cbbd479b-b3dd-4f21-a006-4a0a3e045282)
+
 <details>
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
