@@ -23,6 +23,7 @@ Right now, I'm doing my internship at GreenBeTech/PxlStudio.
 <br/>
 
 ![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaJ3&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLinxies&theme=bear&layout=compact)
 
 </details>
 
