@@ -3,30 +3,12 @@
 My name is Junior Silva Braga
 
 I started my journey as a full stack web developper in 2021 and achieved my training at Molengeek.
-Right now, I'm doing my internship at GreenBeTech/PxlStudio.
+My internship at GreenBeTech/PxlStudio finished in March and now I'm looking for a job as a front End developper.
 
-- 🌱 I’m currently learning GraphQL, TypeScript and Next.js.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: silvabraga.junior@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/cbbd479b-b3dd-4f21-a006-4a0a3e045282.svg)](https://wakatime.com/@cbbd479b-b3dd-4f21-a006-4a0a3e045282)
-
-<details>
-    <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
-
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaJ3&count_private=true&show_icons=true)
-
-</details>
-
-<details>
-    <summary> <samp>📝 Programming Languages</samp></summary>
-<br/>
-
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaJ3&langs_count=10&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaJ3&theme=bear&layout=compact)
-
-</details>
-
 
 
 <!--
