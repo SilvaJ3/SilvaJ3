@@ -3,7 +3,8 @@
 My name is Junior Silva Braga
 
 I started my journey as a full stack web developper in 2021 and achieved my training at Molengeek.
-My internship at GreenBeTech/PxlStudio finished in March and now I'm looking for a job as a front End developper.
+My internship at GreenBeTech/PxlStudio finished in March 2022.
+Currently working as a analyst programmer using Python and Odoo at Bananask
 
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: silvabraga.junior@gmail.com
