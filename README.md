@@ -6,7 +6,6 @@ I started my journey as a full stack web developper in 2021 and achieved my trai
 My internship at GreenBeTech/PxlStudio finished in March 2022.
 Currently working as a analyst programmer using Python and Odoo at Bananask
 
-- 🌱 I’m currently learning Python.
 - 📫 How to reach me: silvabraga.junior@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/cbbd479b-b3dd-4f21-a006-4a0a3e045282.svg)](https://wakatime.com/@cbbd479b-b3dd-4f21-a006-4a0a3e045282)
